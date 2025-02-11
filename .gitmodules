@@ -4,3 +4,6 @@
 [submodule "flightfinder-travelplanner-crewai"]
 	path = flightfinder-travelplanner-crewai
 	url = https://github.com/tasnimuldatascience/flightfinder-travelplanner-crewai.git
+[submodule "E2E-DeepSeekr1-RAG-NVIDIANIM"]
+	path = E2E-DeepSeekr1-RAG-NVIDIANIM
+	url = https://github.com/tasnimuldatascience/E2E-DeepSeekr1-RAG-NVIDIANIM.git
