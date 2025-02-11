@@ -13,3 +13,6 @@
 [submodule "News_Reporter_CrewAI"]
 	path = News_Reporter_CrewAI
 	url = https://github.com/tasnimuldatascience/News_Reporter_CrewAI.git
+[submodule "Multi_Language_Invoice_Extractor"]
+	path = Multi_Language_Invoice_Extractor
+	url = https://github.com/tasnimuldatascience/Multi_Language_Invoice_Extractor.git
