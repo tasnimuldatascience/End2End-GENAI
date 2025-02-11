@@ -10,3 +10,6 @@
 [submodule "End2End-TextSummarization-HF"]
 	path = End2End-TextSummarization-HF
 	url = https://github.com/tasnimuldatascience/End2End-TextSummarization-HF.git
+[submodule "News_Reporter_CrewAI"]
+	path = News_Reporter_CrewAI
+	url = https://github.com/tasnimuldatascience/News_Reporter_CrewAI.git
