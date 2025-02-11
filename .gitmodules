@@ -1,0 +1,6 @@
+[submodule "youtube-to-blog-crewai"]
+	path = youtube-to-blog-crewai
+	url = https://github.com/tasnimuldatascience/youtube-to-blog-crewai.git
+[submodule "flightfinder-travelplanner-crewai"]
+	path = flightfinder-travelplanner-crewai
+	url = https://github.com/tasnimuldatascience/flightfinder-travelplanner-crewai.git
