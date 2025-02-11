@@ -7,3 +7,6 @@
 [submodule "E2E-DeepSeekr1-RAG-NVIDIANIM"]
 	path = E2E-DeepSeekr1-RAG-NVIDIANIM
 	url = https://github.com/tasnimuldatascience/E2E-DeepSeekr1-RAG-NVIDIANIM.git
+[submodule "End2End-TextSummarization-HF"]
+	path = End2End-TextSummarization-HF
+	url = https://github.com/tasnimuldatascience/End2End-TextSummarization-HF.git
