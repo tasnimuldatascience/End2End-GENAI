@@ -16,3 +16,6 @@
 [submodule "Multi_Language_Invoice_Extractor"]
 	path = Multi_Language_Invoice_Extractor
 	url = https://github.com/tasnimuldatascience/Multi_Language_Invoice_Extractor.git
+[submodule "LIM-Nutritionist-Gemini"]
+	path = LIM-Nutritionist-Gemini
+	url = https://github.com/tasnimuldatascience/LIM-Nutritionist-Gemini.git
