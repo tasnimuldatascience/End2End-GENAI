@@ -19,3 +19,6 @@
 [submodule "LIM-Nutritionist-Gemini"]
 	path = LIM-Nutritionist-Gemini
 	url = https://github.com/tasnimuldatascience/LIM-Nutritionist-Gemini.git
+[submodule "multimodal-rag-langgraph"]
+	path = multimodal-rag-langgraph
+	url = https://github.com/tasnimuldatascience/multimodal-rag-langgraph.git
